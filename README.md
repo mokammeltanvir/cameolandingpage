@@ -1,7 +1,7 @@
-# One Page Portfolio Design
+# Simple Landing Page Design
 
 
-A simple portfolio project.
+A simple Landing Page project.
 
 ## Live Demo
 
@@ -11,8 +11,7 @@ You can check out the live demo of this project at [GitHub Pages](https://mokamm
 
 * HTML
 * CSS
-* JavaScript
-* Bootstrap
+* Bootstrap4
 
 ## Author
 
